@@ -1,4 +1,4 @@
-package restAssured;
+package RestAssured;
 
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
